@@ -1,8 +1,10 @@
-package com.otemainc.omena;
+package com.otemainc.omena.ui;
 
 import androidx.appcompat.app.AppCompatActivity;
 
 import android.os.Bundle;
+
+import com.otemainc.omena.R;
 
 public class MainActivity extends AppCompatActivity {
 
