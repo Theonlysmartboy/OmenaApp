@@ -1,3 +1,4 @@
 <resources>
     <string name="app_name">Omena</string>
+    <string name="dev">Powered by otema Technologies</string>
 </resources>
